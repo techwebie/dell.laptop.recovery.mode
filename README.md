@@ -1,6 +1,6 @@
 # Dell Laptop Recovery Mode
 
-[![dell laptop recovery mode](blue.png)](https://github.com/techwebie/dell.laptop.recovery.mode)
+[![dell laptop recovery mode](blue.png)](https://icncomputer.com/dell-laptop-recovery-mode/)
 
 
 ## How to reset Dell laptop through Windows Recovery Environment:
